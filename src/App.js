@@ -11,7 +11,6 @@ class App extends React.Component {
     super()
     this.state = {
       text: '',
-      completed: false,
       todos : todosData
 
     }
